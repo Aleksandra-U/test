@@ -1,2 +1,2 @@
-1;Harry Potter;Joanne Rowling;1997
-2;Metamorphosis;Franz Kafka;1914
+1;Harry Potter;Joanne Rowling;1997;в наличии
+2;Metamorphosis;Franz Kafka;1914;в наличии
