@@ -80,7 +80,6 @@ class Library:
 
     #вывожу пользователю весь список книг с их параметрами id, title, author, year и status
     def show_list_of_books(self):
-        
         # вывожу список f-строкой в консоль из списка
         for elem in self.list_of_book:
             id = elem[0]
@@ -88,9 +87,8 @@ class Library:
             author = elem[2]
             year = elem[3]
             status = elem[4]
-            print('--------------------------------------------')
+            
             print(f'{id}, {title}, {author}, {year}, {status}')
-            print('--------------------------------------------')
     
 
 
@@ -463,4 +461,5 @@ def start_program():
     
 
 start_program()     
+
 
